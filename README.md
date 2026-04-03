@@ -1,16 +1,18 @@
-## Hi there 👋
+# Walther
 
-<!--
-**walther1137/walther1137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Firmware and embedded security researcher focused on vulnerability discovery, binary analysis, and responsible disclosure.
 
-Here are some ideas to get you started:
+## Focus
+- Firmware security research
+- Embedded systems analysis
+- Vulnerability discovery and validation
+- Responsible disclosure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current research areas
+- Firmware unpacking and component identification
+- Binary fingerprinting
+- Version inference from opaque firmware artifacts
+- Security analysis of network and embedded devices
+
+## Contact
+- Security contact: tu_correo_protonmail_aqui

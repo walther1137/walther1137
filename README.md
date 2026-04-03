@@ -15,4 +15,4 @@ Firmware and embedded security researcher focused on vulnerability discovery, bi
 - Security analysis of network and embedded devices
 
 ## Contact
-- Security contact: tu_correo_protonmail_aqui
+- Security contact: walther1137@proton.me
